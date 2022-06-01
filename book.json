@@ -7,8 +7,8 @@
     "tbfed-pagefooter",
     "insert-logo",
     "splitter",
-    "back-to-top-button",
-    "hide-element"
+    "hide-element",
+    "-lunr"
   ],
   "links" : {
     "sidebar" : {
