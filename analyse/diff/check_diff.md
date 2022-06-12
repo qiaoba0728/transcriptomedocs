@@ -3,8 +3,8 @@
 <font face="微软雅黑" >&emsp;&emsp;我们采用 DESeq 对基因表达进行差异分析，筛选差异表达基因条件为：表达差异倍数 |log2FoldChange| > 1 ，显著性P-value < 0.05 ，部分差异分析结果见表1，不同分组之间的差异表达基因统计结果见 表2</font><br />
 
 
-|  Control|Treat| Up-regulated|   Down-regulated| Total|  
-| :---: | :---: | :---: | :---: | :---: | 
+| Control|Treat| Up-regulated| Down-regulated| Total|
+| :---: | :---: | :---: | :---: | :---: |
 {{table}}
 
 **注**：

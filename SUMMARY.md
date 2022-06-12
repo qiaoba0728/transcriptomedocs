@@ -1,11 +1,10 @@
 # Summary
-<!-- * [项目介绍](README.md) -->
+
 * [第一部分 项目概况](introduce/README.md)
     * [1.1 项目概况](introduce/index1.md)
     * [1.2 实验流程](introduce/index2.md)
     * [1.3 参考基因组](introduce/index3.md)
     * [1.4 有参转录组分析流程](introduce/index4.md)
-
 * [第二部分 原始数据整理](base/README.md)
     * [2.1 原始数据整理](base/origin/README.md)
         * [2.1.1 文库基本情况](base/origin/library_origin.md)
@@ -18,7 +17,6 @@
         * [2.2.1 比对结果基本统计](base/blast/result_blast.md)
         * [2.2.2 比对区域分布统计](base/blast/area_blast.md)
         * [2.2.3 基因覆盖均一度](base/blast/cover_blast.md)
-
 * [第三部分 数据分析](analyse/README.md)
     * [3.1 表达量分析](analyse/count/README.md)
         * [3.1.1 表达量分析](analyse/count/count_analyse.md)
@@ -39,8 +37,6 @@
     * [3.4 结构分析](analyse/struct/README.md)
         * [3.4.1 新转录位点分析](analyse/struct/site.md)
         * [3.4.2 差异可变剪切分析](analyse/struct/rmats.md)
-        <!-- * [3.4.3 cSNP和Indel分析](analyse/struct/varscan.md) -->
-    <!-- * [第四部分 蛋白网络互作分析](protein/README.md) -->
 * [第四部分 附录](appendix/README.md)
     * [4.1 数据库介绍](appendix/db.md)
     * [4.2 所用软件介绍](appendix/software.md)

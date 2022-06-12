@@ -10,11 +10,6 @@
     "hide-element",
     "-lunr"
   ],
-  "links" : {
-    "sidebar" : {
-        "武汉增强子生物科技" : "http://zqz.wuxs.vip"
-    }
-},
   "language": "zh-hans",
   "pluginsConfig": {
     "insert-logo": {
